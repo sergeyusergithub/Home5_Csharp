@@ -1,0 +1,15 @@
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/Home5
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/Home5.deps.json
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/Home5.runtimeconfig.json
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/Home5.dll
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/ref/Home5.dll
+/home/userpc/Documents/save/C#/Home5/Home5/bin/Debug/net6.0/Home5.pdb
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.csproj.AssemblyReference.cache
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.GeneratedMSBuildEditorConfig.editorconfig
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.AssemblyInfoInputs.cache
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.AssemblyInfo.cs
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.csproj.CoreCompileInputs.cache
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.dll
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/ref/Home5.dll
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.pdb
+/home/userpc/Documents/save/C#/Home5/Home5/obj/Debug/net6.0/Home5.genruntimeconfig.cache
