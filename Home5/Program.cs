@@ -9,6 +9,10 @@ namespace Home5 {
             // задача 1. Список книг для прочтения
             Console.WriteLine("Задача 1.");
 
+            ListBook lsb = new ListBook();
+            
+
+
 
             // задача 2. Работа с матрицами
 
