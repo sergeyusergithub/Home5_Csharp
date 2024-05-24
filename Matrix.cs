@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Home5_Csharp
 {
+    // класс матрица
     internal class Matrix
     {
         // массив содержащий элементы матрицы
